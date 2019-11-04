@@ -7,5 +7,8 @@ A Face-Filtering Machine Learning model using OpenCV and Keras.
 
 After cloning the repo :
 
-Download dataset (training.csv, test.csv) from [ Here..](https://www.kaggle.com/c/facial-keypoints-detection/data)
-Create a new directory called 'data' and place the downloaded files here.
+Download dataset (training.csv, test.csv) [ here..](https://www.kaggle.com/c/facial-keypoints-detection/data)
+
+Then create a new directory called 'data' and place the downloaded files.
+
+- run 'python shades.py'
