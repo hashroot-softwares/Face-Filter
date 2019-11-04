@@ -7,5 +7,5 @@ A Face-Filtering Machine Learning model using OpenCV and Keras.
 
 After cloning the repo :
 
-	- Download dataset (training.csv, test.csv) from : https://www.kaggle.com/c/facial-keypoints-detection/data
+	- Download dataset (training.csv, test.csv) from : [a link](https://www.kaggle.com/c/facial-keypoints-detection/data)
 	- Create a new directory called 'data' and place the downloaded files here.
