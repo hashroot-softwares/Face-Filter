@@ -14,3 +14,5 @@ After cloning the repo :
 - run 'python model_builder.py'
 
 - run 'python shades.py'
+
+To change the filter(Sunglass here) show any blue coloured object into the camera.
